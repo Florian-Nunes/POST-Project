@@ -13,8 +13,8 @@ import time
 #_________________________________________________________________#
 #__________________Connexion a la base de donnee__________________#
 config = {
-    'user' : 'infra',
-    'password' : 'infra',
+    'user' : 'XXXX',
+    'password' : 'XXXX',
     'host' : 'localhost',
     'database' : 'myetl',
     'raise_on_warnings' : True
